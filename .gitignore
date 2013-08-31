@@ -15,4 +15,5 @@
 /tmp
 
 # Ignore .idea directory.
-/.idea
+/.idea/workspace.xml
+/.idea/tasks.xml
